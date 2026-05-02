@@ -44,3 +44,7 @@ Random Forest 	70.5% 	71.6% 	97.2%
 Final Model Selection
 
 Random Forest was selected due to its more balanced performance across precision and recall, avoiding overprediction seen in Logistic Regression.
+## Results
+
+![Confusion Matrix](results/confusion_matrix.png)
+![Feature Importance](results/feature_importance.png)
